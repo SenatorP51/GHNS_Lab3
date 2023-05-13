@@ -1,2 +1,3 @@
-# GHNS_Lab3
-repo dla PAwChO_NS
+# Laboratorium
+
+GitHub Actions - przeglad podstawowych rozwiazan
